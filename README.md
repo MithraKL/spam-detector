@@ -18,7 +18,6 @@ An end-to-end Machine Learning pipeline to classify SMS/email messages as **spam
 - ✅ Feature importance visualization
 - ✅ 5-fold cross-validation
 - ✅ FastAPI REST endpoint for real-time prediction
-- ✅ Google Colab-ready Jupyter Notebook
 
 ---
 
@@ -52,7 +51,7 @@ spam-detector/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/spam-detector.git
+git clone https://github.com/MithraKL/spam-detector.git
 cd spam-detector
 ```
 
@@ -119,13 +118,6 @@ curl -X POST http://localhost:8000/predict \
 
 ---
 
-## ☁️ Run on Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/spam-detector/blob/main/spam_detection.ipynb)
-
-> Replace `YOUR_USERNAME` with your GitHub username after pushing.
-
----
 
 ## 🛠 Tech Stack
 

@@ -1,0 +1,3 @@
+# Trained model files are saved here after running train.py
+# They are excluded from Git via .gitignore (too large)
+# Run: python src/train.py --data data/spam.csv
